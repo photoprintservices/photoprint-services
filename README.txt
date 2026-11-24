@@ -1,22 +1,26 @@
-PhotoPrint Services — Homepage SEO Update
+PhotoPrint Services — Keyword SEO Update
+==========================================
 
-Included:
-- index.html: updated homepage SEO title, meta description, Open Graph text, H1 and service-section copy.
-- Removed the meta keywords tag (Google does not use it for ranking).
-- Added loading="lazy" and decoding="async" to below-the-fold images.
-- Added fetchpriority="high" and decoding="async" to the hero image.
-- Preserved existing design, service URLs, order form URL, pricing example, policies and navigation.
+Files included:
+- index.html
+- photo-prints.html
+- photo-collage.html
+- passport-photos.html
+- large-photo-prints.html
 
-How to publish:
-1. Download and extract this ZIP.
-2. Open the GitHub repository: photoprintservices/photoprint-services.
-3. Replace ONLY the existing index.html in the repository root with this index.html.
-4. Commit the change.
-5. Open the homepage and confirm it looks correct.
+What changed:
+- Aligned each page title, meta description, H1/section headings and introductory copy with its assigned search intent.
+- Homepage targets online photo printing India and photo prints online.
+- Photo Prints targets glossy photo prints online.
+- Collage page targets custom photo collage printing online.
+- Passport page targets passport-size photo printing online.
+- Large Prints page includes large photo prints and A4 photo printing enquiries.
 
-Do not replace sitemap.xml, robots.txt, the Search Console verification file, or the four service-page files.
-The homepage URL has not changed, so the sitemap does not need to be resubmitted.
-After deployment, use Search Console URL Inspection → Test Live URL → Request Indexing for the homepage.
-
-Image filename note:
-The current homepage uses externally hosted Unsplash images. Their filenames cannot be renamed from this HTML file. When you have your own product photos, upload them to the repository with descriptive filenames and update their image URLs and accurate ALT text.
+Important:
+- No search-volume figures or ranking guarantees are claimed.
+- Existing order form, UPI process, package price, policies, canonical URLs and page links are retained.
+- A4 and other large-format availability, finish and margins must be confirmed for each order; no unsupported borderless-A4 promise is made.
+- Passport/ID page continues to require customer-prepared files and does not promise official acceptance.
+- Replace only the five matching HTML files in the GitHub repository root.
+- Do NOT replace sitemap.xml, robots.txt, Google verification file or any other files.
+- After GitHub Pages deploys, inspect each URL in Google Search Console and request indexing once. No sitemap edit is required because the URLs have not changed.
