@@ -1,5 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://photoprintservices.github.io/photoprint-services/</loc>
-  </url>
+  <url><loc>https://photoprintservices.github.io/photoprint-services/</loc></url>
+  <url><loc>https://photoprintservices.github.io/photoprint-services/photo-prints.html</loc></url>
+  <url><loc>https://photoprintservices.github.io/photoprint-services/photo-collage.html</loc></url>
+  <url><loc>https://photoprintservices.github.io/photoprint-services/passport-photos.html</loc></url>
+  <url><loc>https://photoprintservices.github.io/photoprint-services/large-photo-prints.html</loc></url>
 </urlset>
